@@ -1,6 +1,7 @@
 const form = document.getElementById('form');
 form.addEventListener('submit', handleSubmit);
 
+
 let statusC = getElementById('status');
 let attempt = document.getElementById('attempt');
 let result = document.getElementById('result');
